@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sukhjinder-kumar
-- 👀 I’m interested in Maths, Computer Science. Read a lots of book and play a lot of cricket.
+- 👋 Hi, I’m Sukhjinder
+- 👀 I’m interested in Maths, Computer Science. 
+- <no emoji> I love to read books and play cricket.
 - 🌱 I’m currently doing CSE at IIIT HYDERABAD
 
 <!---
