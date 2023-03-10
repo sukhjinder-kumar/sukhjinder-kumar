@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sukhjinder
-- 👀 I’m interested in Maths, Computer Science. 
-- <no emoji> I love to read books and play cricket.
+- 👀 I’m interested in Mathematics, Physics and Machine Learning 
+- 📚 I love to read books.
 - 🌱 I’m currently doing CSE at IIIT HYDERABAD
 
 <!---
